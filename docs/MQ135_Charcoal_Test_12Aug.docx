@@ -1,0 +1,38 @@
+**MQ135 Charcoal Absorption Test**
+
+*12th August Readings — Spray Spike **&** GAC Decay*
+
+Sensor: MQ135 (raw analog output). Test sequence: baseline reading, contaminant spray, then charcoal (GAC) exposure to observe absorption decay.
+
+## Readings Plot
+
+## Reading Log (6:54 PM – 7:19 PM)
+
+| **Time** | **MQ135 Raw Value** | **Event** |
+| --- | --- | --- |
+| 6:54 | **814** | Baseline |
+| 6:55 | **3000** | Spray |
+| 6:56 | **2680** | Charcoal starts |
+| 6:57 | 2390 |  |
+| 6:58 | 2130 |  |
+| 6:59 | 1890 |  |
+| 7:00 | 1670 |  |
+| 7:01 | 1470 |  |
+| 7:02 | 1290 |  |
+| 7:03 | 1130 |  |
+| 7:04 | 990 |  |
+| 7:05 | 900 |  |
+| 7:06 | 850 |  |
+| 7:07 | 820 |  |
+| 7:08 | 800 |  |
+| 7:09 | 788 |  |
+| 7:10 | 779 |  |
+| 7:11 | 769 |  |
+| 7:12 | 759 |  |
+| 7:13 | 747 |  |
+| 7:14 | 736 |  |
+| 7:15 | 713 |  |
+| 7:16 | 690 |  |
+| 7:17 | 688 |  |
+| 7:18 | 682 |  |
+| 7:19 | 674 |  |
