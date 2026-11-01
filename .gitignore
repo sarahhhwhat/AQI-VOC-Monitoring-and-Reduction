@@ -1,4 +1,2 @@
-firmware/secrets.h
-__pycache__/
-.DS_Store
-.vscode/
+firmware/**/secrets.h
+secrets.h
