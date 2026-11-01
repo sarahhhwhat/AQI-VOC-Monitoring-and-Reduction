@@ -51,6 +51,7 @@ Raw spreadsheets are in `data/raw/`; write-ups are in `docs/`.
 pip install openpyxl matplotlib
 python scripts/export_and_plot.py
 ```
+Note: the published sketch (firmware/aqi_voc_logger) covers the SGP30 and dust sensor. MQ135 and SCD30 readings came from other sketch versions that are not included yet.
 
 ## Repository layout
 
