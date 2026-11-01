@@ -73,6 +73,6 @@ Code: MIT. Data, figures and write-ups: CC BY 4.0. See `LICENSE`.
 
 ## Acknowledgements
 
-Guide - Dr. Nandini K. 
-Teammates - Uzma, Suhani, Aamir.
-Department of Physics, Department of Microbiology and Department of Chemistry.
+Guide: Dr. Nandini K.
+Teammates: Uzma Mukhtar Ahmed, Suhani Sharma, Aamir Shaikh
+Departments: Physics, Microbiology and Chemistry
